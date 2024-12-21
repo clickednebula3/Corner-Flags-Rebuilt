@@ -1,0 +1,1 @@
+global.hsc = 0;

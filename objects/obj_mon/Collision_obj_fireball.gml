@@ -1,0 +1,1 @@
+if (!global.paused) hp -= 3*max(other.speed/4, 1);

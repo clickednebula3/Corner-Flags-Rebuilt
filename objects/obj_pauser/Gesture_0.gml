@@ -1,0 +1,1 @@
+//if (instance_exists(obj_soul) && obj_soul.hp > 0) with (obj_soul) { toggle_pause(); }

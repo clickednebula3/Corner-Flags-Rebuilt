@@ -1,0 +1,1 @@
+if (image_index == 2) room_goto_next();

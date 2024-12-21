@@ -1,0 +1,1 @@
+if (!global.paused) other.hp-=0.1;
